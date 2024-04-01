@@ -10,19 +10,19 @@ Resource/DisplayName/Water,Text,,Water,水,Eau,Wasser
 Resource/Abbreviation/H2O,Text,,H2O,H2O,H2O,H2O
 
 Resource/DisplayName/WasteWater,Text,,Waste Water,废水,Eau Usée,Abwasser
-Resource/Abbreviation/WaH2O,Text,,WaH2O,WaH2O,WaH2O,WaH2O
+Resource/Abbreviation/WaH2O,Text,,WaH2O,WaH2O,WaH2O,Abw
 
 Resource/DisplayName/Food,Text,,Food,食物,Nourriture,Nahrung
-Resource/Abbreviation/FD,Text,,FD,FD,NT,NA
+Resource/Abbreviation/FD,Text,,FD,FD,NT,Nah
 
 Resource/DisplayName/Waste,Text,,Waste,垃圾,Déchets,Abfall
-Resource/Abbreviation/WST,Text,,WST,WST,DE,ABF
+Resource/Abbreviation/WST,Text,,WST,WST,DE,Bio
 
 Resource/DisplayName/Fertilizer,Text,,Fertilizer,肥料,Engrais,Dünger
 Resource/Abbreviation/Frt,Text,,Frt,Frt,Eng,Dün
 
 Resource/DisplayName/Hydrolox,Text,,Hydrolox,氢基,Hydrolox,Hydrolox
-Resource/Abbreviation/HO,Text,,HO,HO,HO,HO
+Resource/Abbreviation/HO,Text,,HO,HO,HO,HLo
 
 Resource/DisplayName/Argon,Text,,Argon Gas,氩气,Argon,Argon
 Resource/Abbreviation/Ar,Text,,Ar,Ar,Ar,Ar
